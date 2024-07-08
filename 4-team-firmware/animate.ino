@@ -1,5 +1,5 @@
 // Animate
-void fuckshit() {}
+void test_func() {}
 
 
 State state_AnimateCommand(
